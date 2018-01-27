@@ -1,2 +1,1 @@
-ra:wq
-q
+rafeeq change readme in development 
